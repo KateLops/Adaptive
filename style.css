@@ -155,7 +155,6 @@ header{
         flex-wrap: wrap;
         align-content: center;
         margin: auto;
-        
         margin-top: 41px;
         height: 50px;
         width:300px;
@@ -185,7 +184,6 @@ header{
     }
        
     .Language{
-        
            display: none;
     }
        
@@ -230,7 +228,6 @@ header{
     .Menu{
         width: 34px;
         height: 28.56px;
-        
         display: none;
     }
     .Menu2{
@@ -243,12 +240,9 @@ header{
     .Right{
         display: none;
     }
+    
     .Left{
         margin-left: 140px;
-    }
-   
-    .image{
-        display: none;
     }
 
     .All{
